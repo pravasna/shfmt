@@ -1,5 +1,6 @@
 #!/bin/sh
 # This is change 3
+# This is change 4
 #
 # This script should be run via curl:
 #   sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
